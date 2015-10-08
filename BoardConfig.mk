@@ -21,8 +21,7 @@ LOCAL_PATH := device/samsung/e53g
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/samsung/e53g
-TARGET_KERNEL_CONFIG := msm8916_sec_defconfig
-TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_e53g_eur_defconfig
+TARGET_KERNEL_CONFIG := cyanogen_e53g_defconfig
 TARGET_KERNEL_SELINUX_CONFIG := selinux_defconfig
 
 # Partition Info
